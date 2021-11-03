@@ -11,6 +11,7 @@ How are you? Welcome to this space where we love web development and some other 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-1360bb?style=for-the-badge&logo=angular&logoColor=c3002f)
 
 </td>
 <td>
