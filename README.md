@@ -16,7 +16,7 @@ How are you? Welcome to this space where we love web development and some other 
 
 </td>
 <td>
-  <img src="https://media.giphy.com/media/S1XcMwMZBN6Ob67lwd/giphy.gif">
+  <img src="https://media.giphy.com/media/oEK6WBsejSme4/giphy.gif">
 </td>
 </tr>
 </table>
