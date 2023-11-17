@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Niver Martínez!
 
-🚀 Software Developer passionate about Frontend
-🔧 Proficient in Vue, Angular and React
-🌱 Always learning and building interesting things
-💼 Currently working on Accenture
-📫 Contact me: nivermartinezmed@gmail.com
+    🚀 Software Developer passionate about Frontend
+    🔧 Proficient in Vue, Angular and React
+    🌱 Always learning and building interesting things
+    💼 Currently working on Accenture
+    📫 Contact me: nivermartinezmed@gmail.com
 
 <!--
 <table>
