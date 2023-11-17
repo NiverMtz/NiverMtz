@@ -1,9 +1,18 @@
+# 👋 Hi, I'm Niver Martínez!
+
+🚀 Software Developer passionate about Frontend
+🔧 Proficient in Vue, Angular and React
+🌱 Always learning and building interesting things
+💼 Currently working on Accenture
+📫 Contact me: nivermartinezmed@gmail.com
+
+<!--
 <table>
 <tr>
 <td>
 
-# Hi there!
-How are you? Welcome to this space where we love web development and some other technologies. Good day.
+// Insert template
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +32,7 @@ How are you? Welcome to this space where we love web development and some other 
 </td>
 </tr>
 </table>
-
+-->
 <!-- ## 📜 Tech Stack
 
 
