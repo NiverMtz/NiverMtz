@@ -1,34 +1,33 @@
-# 👋 ¡Hola, soy Niver Martínez!
+# 👋 Hi, I'm Niver Martínez!
 
-🚀 **Desarrollador de Software Fullstack apasionado por la innovación**
-🔧 **Dominio de Angular, Vue y React**
-🌱 **Siempre aprendiendo y construyendo cosas interesantes**
-💼 **Actualmente trabajando en Accenture**
-💡 **Me encanta participar en proyectos desafiantes y creativos**
-📫 **Contáctame: nivermartinezmed@gmail.com**
+🚀 **Fullstack Software Developer passionate about innovation**  
+🔧 **Proficient in Angular, Vue, and React**  
+🌱 **Always learning and building interesting things**  
+💼 **Currently working at Accenture**  
+💡 **I love participating in challenging and creative projects**  
+📫 **Contact me: nivermartinezmed@gmail.com**
 
-## Sobre mí
+## About Me
 
-Soy un desarrollador de software con una fuerte pasión por el frontend y una creciente experiencia en el desarrollo fullstack. Me encanta explorar nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores. Mi objetivo es crear soluciones eficientes y atractivas que mejoren la experiencia del usuario.
+I am a software developer with a strong passion for frontend development and growing experience in fullstack development. I love exploring new technologies and applying my knowledge to innovative projects. My goal is to create efficient and appealing solutions that enhance user experience.
 
-## Habilidades
+## Skills
 
 - **Frontend:** Angular, Vue, React
 - **Backend:** Node.js, Express, MongoDB
-- **Herramientas y tecnologías:** Git, Docker, Jenkins
-- **Metodologías:** Agile, Scrum
+- **Tools and Technologies:** Git, Docker, Jenkins
+- **Methodologies:** Agile, Scrum
 
-## Experiencia
+## Experience
 
-- **Accenture** - Desarrollador de Software
-  - Desarrollo de aplicaciones web utilizando Angular y Node.js.
-  - Colaboración en equipos ágiles para entregar soluciones de alta calidad.
+- **Accenture** - Software Developer
+  - Developed web applications using Angular and Node.js.
+  - Collaborated in agile teams to deliver high-quality solutions.
 
-## Contacto
+## Contact
 
 - **Email:** nivermartinezmed@gmail.com
-- **LinkedIn:** linkedin.com/in/nivermartinez
-- **GitHub:** github.com/nivermartinez
+- **LinkedIn:** [linkedin.com/in/nivermartinez](https://linkedin.com/in/nivermartinez)
+- **GitHub:** [github.com/nivermartinez](https://github.com/nivermartinez)
 
-¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones interesantes.
-
+Thanks for visiting my profile! I am always open to new opportunities and interesting collaborations.
